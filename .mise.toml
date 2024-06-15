@@ -1,0 +1,7 @@
+[tools]
+scala='3.4.2'
+sbt='1.10.0'
+java='temurin-21.0.3+9.0.LTS'
+
+[env]
+JAVA_OPTS='--add-exports java.base/sun.nio.ch=ALL-UNNAMED'

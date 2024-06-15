@@ -1,0 +1,6 @@
+.metals
+.bloop
+target
+*.class
+.DS_Store
+metals.sbt
